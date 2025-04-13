@@ -1,2 +1,1 @@
-# pern-nextjs-portfolio
-A repository for a PERN stack portfolio using Next.js
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
